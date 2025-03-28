@@ -1,7 +1,7 @@
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
-This project analyzes the Titanic dataset to uncover key insights about passenger survival rates. Using Excel, we performed EDA with pivot tables, visualizations, and a static dashboard to present findings effectively.
+This project analyzes the Titanic dataset to uncover key insights about passenger survival rates. Using Excel, I performed EDA with pivot tables, visualizations, and a static dashboard to present findings effectively.
 
 ## Dataset Overview
 
